@@ -1,7 +1,7 @@
 # Metody-Obliczeniowe
 
 W tym repo znajdują się przykładowe implementacje podstawowych metod obliczeniowych. Poniżej treści zadań:
-
+<pre>
 1. Napisz program w języku „C/C++”, umożliwiający „doświadczalne” wyznaczenie liczby bitów
 mantysy oraz tzw. epsylona maszynowego, dla zmiennych typu float i double, tj. najmniejszej liczby
 e takiej, że fl(e + 1) > 1. Jaki jest związek e z precyzją arytmetyki?
@@ -173,4 +173,4 @@ maszynowych.
 
 11. Napisz program w języku „C/C++”, demonstrujący zjawisko Rungego w interpolacji wielomianowej Lagrange’a, 
 na przykładzie interpolacji funkcji f(x) = x/(1 + 25|x|^3), określonej w przedziale [-1, 1]. 
-Porównaj wyniki interpolacji na węzłach równoodległych z wynikami interpolacji na węzłach Czebyszewa.
+Porównaj wyniki interpolacji na węzłach równoodległych z wynikami interpolacji na węzłach Czebyszewa.</pre>
