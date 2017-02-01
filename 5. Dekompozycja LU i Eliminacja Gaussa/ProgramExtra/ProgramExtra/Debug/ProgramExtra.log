@@ -1,0 +1,18 @@
+﻿  ProgramExtra.cpp
+g:\studia\iv\mo\laboratoria\5\programextra\programextra\programextra.cpp(63): warning C4018: '<': signed/unsigned mismatch
+g:\studia\iv\mo\laboratoria\5\programextra\programextra\matrix.h(40): warning C4018: '<': signed/unsigned mismatch
+  g:\studia\iv\mo\laboratoria\5\programextra\programextra\matrix.h(32): note: while compiling class template member function 'Matrix<type>::Matrix(std::initializer_list<std::vector<T,std::allocator<_Ty>>>)'
+          with
+          [
+              T=type,
+              _Ty=type
+          ]
+  g:\studia\iv\mo\laboratoria\5\programextra\programextra\programextra.cpp(38): note: see reference to function template instantiation 'Matrix<type>::Matrix(std::initializer_list<std::vector<T,std::allocator<_Ty>>>)' being compiled
+          with
+          [
+              T=type,
+              _Ty=type
+          ]
+  g:\studia\iv\mo\laboratoria\5\programextra\programextra\programextra.cpp(30): note: see reference to class template instantiation 'Matrix<type>' being compiled
+  ProgramExtra.vcxproj -> G:\Studia\IV\MO\Laboratoria\5\ProgramExtra\Debug\ProgramExtra.exe
+  ProgramExtra.vcxproj -> G:\Studia\IV\MO\Laboratoria\5\ProgramExtra\Debug\ProgramExtra.pdb (Partial PDB)
